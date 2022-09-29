@@ -2,6 +2,8 @@
 ### Objectifs :
 1. Mettre en oeuvre les technologies web pour créer et héberger mon portfolio
 
+![Netbeans, HTML5, CSS3, Bootstrap, Git, Github](https://i.ibb.co/nfGJkJZ/dqd.png)
+
 - __NetBeans__ : Environnement de développement intégré (IDE) utilisé pour ce projet
 - __HTML__ : Langage de description utilisé pour concevoir les pages web
 - __CSS__ : Langage de style utilisé pour mettre en forme les pages web
