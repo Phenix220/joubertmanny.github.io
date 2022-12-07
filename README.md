@@ -23,7 +23,7 @@
   * Mise en oeuvre des tests (unitaires, d'intégration, fonctionnels, ..)
   * Documentation
   * Gestion de version, développement collaboratif et gestion diincidents
-- Je présente la facon dont jforganise ma veille et la facon dont je m'en sert
+- Je présente la facon dont j'organise ma veille et la facon dont je m'en sert
 
 3. Pour l'épreuve E5
 
